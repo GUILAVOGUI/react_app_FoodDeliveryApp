@@ -26,7 +26,6 @@ export default function Header({ title, type, navigation }) {
                         navigation.goBack()
                     }}
                 />
-
             </View>
 
             <View>
